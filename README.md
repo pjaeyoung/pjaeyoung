@@ -5,5 +5,5 @@
 - 안정적인 서비스 개발을 위해 테스트 작성과 Typescript 도입을 적극적으로 하고 있습니다.
 
 ## :wrench: Skills
-- 개발툴 : Javascript / Typescript / React / Express / MySQL
-- 협업툴 : Git / Slack / Trello / Notion / Figma / Miro / Postman / Photoshop
+- 개발툴 : Javascript / Typescript / React / GraphQL
+- 협업툴 : Git / Slack / Trello / Notion / Figma / Miro 
